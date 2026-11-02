@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+opencv-python-headless
+matplotlib
+ipykernel
+plotly
+mlflow
+streamlit
+joblib
+tqdm
+pytest
+scikit-image
+imutils
+kaggle

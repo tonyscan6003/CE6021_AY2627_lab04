@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated evaluate output
+**/lab*_results.html
+
+# Kaggle credentials — never commit
+Data/kaggle.json
+Data/access_token
+
+# Large downloaded datasets (run helpers/download_kaggle_dataset.py for lab07)
+Data/shipsnet/
+Data/shipsnet.json
+Data/ships-in-satellite-imagery.zip
+Data/scenes/
+Data/hog_model.pkl
